@@ -12,7 +12,7 @@ __Constraints__
 * The biggest constraint would be the salary cap. A lot of the best players in the league make quite a bit of money, no team can afford 5 max-contract players.
 * Second constraint would be position. We can only have 2 guards, 2 forwards, and 1 center. So at times, we would have to choose one player over the other, which is something our model would have to handle.
 
-We collected our data - in-game statistics, player salary, position, etc. - on all NBA players in the 2019-2020 season from [Hashtag Basketball](https://hashtagbasketball.com/fantasy-basketball-rankings) and [Basketball-Reference](https://www.basketball-reference.com/). Both websites refresh and update their data logs daily (while the season is ongoing), ensuring data accuracy and reliability.
+We collected our data - in-game statistics, player salary, position, etc. - on all NBA players in the 2019-2020 season from [Hashtag Basketball](https://hashtagbasketball.com/fantasy-basketball-rankings){:target="_blank" rel="noopener"} and [Basketball-Reference](https://www.basketball-reference.com/){:target="_blank" rel="noopener"}. Both websites refresh and update their data logs daily (while the season is ongoing), ensuring data accuracy and reliability.
 
 __Note:__
 This project is still in progress and will be updated regularly until the end of April
