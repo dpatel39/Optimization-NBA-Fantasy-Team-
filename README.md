@@ -5,6 +5,7 @@ In the 1980s, a New York City sportswriter named Daniel Okrent created fantasy s
 For the past couple of years, fantasy basketball has been growing with increasing popularity. This emerging increase has resulted in the demand of fantasy players to find a way to increase their chances of success with their fantasy team. From simulation software, to predictive analytics, many different tools/methods currently exist to aid fantasy users on which players to select onto their teams, each with their own pros and cons. To address this demand, our group attempted to create the ideal tool that fantasy players can use to build their perfect team.
 
 __Objective__
+
 For this project, we are developing an optimization model that takes all 450 current players in the NBA and builds the best fantasy team possible in order to guarantee success in a fantasy basketball league. This model considers each player’s fantasy score, position, salary, team, and more to find whether or not a respective player is the right fit. Additionally, the model also considers which players are best suited to come off the bench as “backup”, when certain players are injured or are not playing.
 
 __Constraints__
