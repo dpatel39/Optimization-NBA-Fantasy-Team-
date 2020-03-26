@@ -3,3 +3,5 @@ Build an optimization model that takes all 450 current players in the NBA and bu
 
 We collected our data - in-game statistics, player salary, position, etc. - on all NBA players in the 2019-2020 season from Hashtag Basketball and Basketball-Reference. Both websites refresh and update their data logs daily (while the season is ongoing), ensuring data accuracy and reliability. 
 
+# Note:
+This project is in progress, will be complete in May 2020
