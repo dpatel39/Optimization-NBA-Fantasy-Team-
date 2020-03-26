@@ -1,5 +1,4 @@
-# ECE524-Final-Project
-This is the NBA Fantasy Team Project for ECE524 (Spring 2020)
+__NBA Fantasy Team - Optimization Project__
 
 In the 1980s, a New York City sportswriter named Daniel Okrent created fantasy sports with the idea of allowing sports fans to experience a side of sports that they had never experienced. Fantasy sports are internet simulation-based games where players assemble virtual teams of actual professional players. These professional players are ranked by their statistical in-game performance and are then selected by users who place them on their respective teams. These teams then compete against one another based on the performance of those players in actual games. In a standard fantasy league, winning games results in points that a team gets to keep. At the end of the fantasy season, the team with the most points wins the league (aka the championship). In fantasy basketball, a fantasy score is a metric that considers the fundamental statistics (games played, field goal %, three-point%, points per game, rebounds, turnovers, and more) in a basketball game as a number.
 
